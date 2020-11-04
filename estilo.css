@@ -323,7 +323,7 @@ footer{
       font-size: 20px;
   }
 
-  /* ABOUT US */
+
 
   .imagen-about-us{
       margin-bottom: 60px;
@@ -334,7 +334,7 @@ footer{
       width: 95%;
   }
 
-  /* Galeria */
+
 
   .imagen-port{
       width: 95%;
@@ -354,7 +354,6 @@ footer{
       height: 90px;
   }
 
-  /* Footer */
 
   .contenedor-footer{
       flex-direction: column;
